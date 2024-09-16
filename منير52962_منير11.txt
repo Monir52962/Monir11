@@ -1,0 +1,8 @@
+"echo "#Monir11" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Monir52962/Monir11.git
+ git push -u origin main"
+ https://github.com/Monir52962/Monir11#:~:text=echo%20%22%23Monir11%22%20%3E%3E%20README.md%20%0Agit%20init%20%0Agit%20add%20README.md%20%0Agit%20commit%20%2Dm%20%22first%20commit%22%20%0Agit%20branch%20%2DM%20main%20%0Agit%20remote%20add%20origin%20https%3A//github.com/Monir52962/Monir11.git%0A%20git%20push%20%2Du%20origin%20main
